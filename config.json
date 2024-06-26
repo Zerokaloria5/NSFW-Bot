@@ -1,8 +1,8 @@
 {
-  "prefix": "!",
-  "token": "",
-  "owners": ["566725782634758152"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  prefix: "!",
+  TOKEN: "",
+  owners: ["566725782634758152"],
+  footer: "NSFW Bot • is.gd/nsfwbot",
 
   "msg": {
     "nsfwWarn": "You must use this command in an nsfw channel!",
